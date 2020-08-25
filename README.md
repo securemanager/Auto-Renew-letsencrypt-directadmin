@@ -9,3 +9,10 @@ chmod 755 renewletsencrypt.bash
 
 
 ./renewletsencrypt.bash
+
+
+## Donate
+
+Want to keep this project going? Please donate generously [https://www.buymeacoffee.com/securemanager](https://www.buymeacoffee.com/securemanager)
+
+[![Build](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/securemanager)
